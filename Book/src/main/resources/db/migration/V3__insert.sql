@@ -1,0 +1,1 @@
+INSERT into books (id, book_name, author_name, category, description, price) values (4, "Revolution", "Chetan Bhagat", "story Book", "Story of 3 childhood friends", 150.5) 
